@@ -1,0 +1,18 @@
+{
+  "name": "bower-sha",
+  "version": "0.0.0",
+  "authors": [
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "accounting": "0.3.2",
+    "json2": "douglascrockford/JSON-js#3d7767b6b1f3da363c625ff54e63bbf20e9e83ac"
+  }
+}
